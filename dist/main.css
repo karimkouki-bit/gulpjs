@@ -1,0 +1,28 @@
+footer{
+    height: 50px;
+}
+header{
+    height: 100px;
+}
+.karim{
+    height: 100px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-transform: translate(50%, 50%);
+            transform: translate(50%, 50%);
+    opacity: 0.5;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.content{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-transform: translate(50%, 50%);
+            transform: translate(50%, 50%);
+    opacity: 0.5;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+
+}

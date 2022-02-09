@@ -1,0 +1,14 @@
+.karim{
+    height: 100px;
+    display: flex;
+    transform: translate(50%, 50%);
+    opacity: 0.5;
+    transition: all 0.5s;
+}
+.content{
+    display: flex;
+    transform: translate(50%, 50%);
+    opacity: 0.5;
+    transition: all 0.5s
+
+}

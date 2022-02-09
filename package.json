@@ -1,0 +1,27 @@
+{
+  "name": "karim",
+  "version": "1.0.0",
+  "description": "myGulp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kouki karim",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^4.0.2",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-zip": "^5.1.0",
+    "vinyl-ftp": "^0.6.1"
+  },
+  "dependencies": {
+    "gulp-prefix": "0.0.15",
+    "gulp-uglify": "^3.0.2",
+    "static-server": "^2.2.1"
+  }
+}

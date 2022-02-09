@@ -1,0 +1,1 @@
+document.getElementById('two').innerHTML = 'this is two from javascript'
